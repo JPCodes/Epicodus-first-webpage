@@ -1,4 +1,12 @@
 
+body {
+  background-color: #eee;
+}
+
+html {
+  background-color: #444;
+}
+
 /* Nav */
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
   background-color: #000;
@@ -24,4 +32,10 @@ nav ul {
 
 .info {
   margin-top: 3em;
+}
+
+/* IMG */
+.img-responsive {
+  border: 5px solid #fff;
+  border-radius: 15px;
 }
