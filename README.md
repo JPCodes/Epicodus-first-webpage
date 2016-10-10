@@ -19,8 +19,8 @@ This version contains no known issues.
 
 ## Support and contact details
 
-Github for Jim Padilla: JPCodes
-Github for Joshua Rinard: JRinard
+* Github for Jim Padilla: JPCodes
+* Github for Joshua Rinard: JRinard
 
 ## Technologies Used
 
