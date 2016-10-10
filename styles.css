@@ -1,0 +1,30 @@
+
+/* Nav */
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: #000;
+}
+
+nav {
+  margin-bottom:.5em;
+  background-color: #999;
+  padding-top: .4em;
+  padding-bottom: .4em;
+}
+
+nav a {
+  color: #fff;
+  font-size: 1.2em;
+}
+
+nav ul {
+  list-style-type:none;
+  display:flex;
+  justify-content: center;
+}
+
+/* Footer */
+footer {
+  background-color: #999;
+  padding: .5em 0;
+  text-align: center;
+}
